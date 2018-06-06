@@ -1,0 +1,11 @@
+.vs
+*.sdf
+*.suo
+*.bin
+Release/*.iobj
+Release/*.ipdb
+Release/*.log
+Release/*.pdb
+Release/*.tlog
+Release/*.obj
+Release/*.bin
